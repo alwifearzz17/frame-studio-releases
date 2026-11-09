@@ -28,6 +28,7 @@
 - 🐢 **Slow motion** with frame blend, optical flow or **AI optical flow (RIFE)** on NVIDIA GPUs.
 - 🔁 **Reverse and boomerang** loops with smooth turnarounds.
 - 🔄 **Rotate and flip.**
+- 📱 **Crop & reframe**: turn a horizontal 4K fancam into a vertical video, and drag to keep the idol in frame.
 - 📸 **Save any frame** as PNG or JPG.
 - 🔗 **Join clips** in one click.
 - 💎 **Export without visible quality loss**: visually lossless (VMAF 99.6+), mathematically lossless, or a bit-perfect copy.
