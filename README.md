@@ -29,6 +29,7 @@
 - 🔁 **Reverse and boomerang** loops with smooth turnarounds.
 - 🔄 **Rotate and flip.**
 - 📱 **Crop & reframe**: turn a horizontal video into a vertical one (or 4:5, 1:1, 16:9), and drag to keep your subject in frame.
+- 🎥 **Follow a person**: pick someone once and the vertical window follows them by itself, like a camera operator. It tells people apart by their whole look, waits when they leave the shot, and shows you where to double-check.
 - 📸 **Save any frame** as PNG or JPG.
 - 🔗 **Join clips** in one click.
 - 💎 **Export without visible quality loss**: visually lossless (VMAF 99.6+), mathematically lossless, or a bit-perfect copy.
@@ -41,4 +42,4 @@ Windows 10 or 11 (64-bit). An NVIDIA GPU makes exports much faster and enables A
 
 ---
 
-<sub>This repository only hosts the installers. Frame Studio uses <a href="https://ffmpeg.org">FFmpeg</a> (downloaded separately from <a href="https://github.com/BtbN/FFmpeg-Builds">BtbN/FFmpeg-Builds</a>, GPL) and <a href="https://github.com/nihui/rife-ncnn-vulkan">rife-ncnn-vulkan</a> (MIT).</sub>
+<sub>This repository only hosts the installers. Frame Studio uses <a href="https://ffmpeg.org">FFmpeg</a> (downloaded separately from <a href="https://github.com/BtbN/FFmpeg-Builds">BtbN/FFmpeg-Builds</a>, GPL) , <a href="https://github.com/nihui/rife-ncnn-vulkan">rife-ncnn-vulkan</a> (MIT), <a href="https://github.com/Megvii-BaseDetection/YOLOX">YOLOX</a> (Apache-2.0), <a href="https://github.com/KaiyangZhou/deep-person-reid">OSNet / Torchreid</a> (MIT) and <a href="https://onnxruntime.ai">ONNX Runtime</a> (MIT).</sub>
