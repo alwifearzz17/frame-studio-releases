@@ -30,6 +30,7 @@
 - 🔄 **Rotate and flip.**
 - 📱 **Crop & reframe**: turn a horizontal video into a vertical one (or 4:5, 1:1, 16:9), and drag to keep your subject in frame.
 - 🎥 **Follow a person**: pick someone once and the vertical window follows them by itself, like a camera operator. It tells people apart by their whole look, waits when they leave the shot, and shows you where to double-check.
+- 🧩 **Export parts**: split a long video on the timeline and save every part as its own file in one go, or as one video with chapters.
 - 📸 **Save any frame** as PNG or JPG.
 - 🔗 **Join clips** in one click.
 - 💎 **Export without visible quality loss**: visually lossless (VMAF 99.6+), mathematically lossless, or a bit-perfect copy.
